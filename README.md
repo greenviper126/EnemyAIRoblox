@@ -5,7 +5,7 @@ It is primarily meant to use a state machine like framework when designing NPC's
 
 Once running you tag a rig in studio with "EnemyAI" and give it 2 attributes for needed info:
 
-EnemyType : string/name of the statemachine module you intend to use
+EnemyType : string/name of the state machine module you intend to use
 
 PathingType : string/name of the pathfinding algorithm you intend to use
 
