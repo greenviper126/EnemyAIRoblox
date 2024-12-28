@@ -14,3 +14,5 @@ Everything will be automaticly cleaned up on the tagged instance once the tag is
 
 The system is sever side for the Roblox Engine, It is was not designed with the intention of handling hundreds of NPC instances at once.
 This system was intended to work for a linear horror game with at most 15-20 Instances running at the same time.
+
+Lastly this has not fully been debuged and currently there are a few type checking and module fetching/sharing issues that need to be fixed. This is mainly intended for portfolio use.
