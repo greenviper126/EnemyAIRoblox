@@ -1,6 +1,6 @@
 This is a full NPC system
 
-It is primarily designed to use a state machine framework when designing NPC's
+It is primarily meant to use a state machine like framework when designing NPC's
 
 Once running you tag a rig in studio with "EnemyAI" and give it 2 attributes for needed info:
 EnemyType : string/name of the statemachine module you intend to use
